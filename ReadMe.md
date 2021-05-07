@@ -1,4 +1,4 @@
-Authors: Aditya Gade/Dwarkanath P Rao
+Authors: Dwarkanath P Rao
 
 Document Owner: Dwarkanath P Rao
 
