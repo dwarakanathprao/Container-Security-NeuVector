@@ -2,6 +2,7 @@ Authors: Dwarkanath P Rao
 
 Document Owner: Dwarkanath P Rao
 
+<img src="media/image5.jpg" />
 
 ## 
 
